@@ -42,7 +42,7 @@ This was a fun little project to practise:
 
 Interactive shell mode:
 
-![PWMGR Demo](assets/demo.png)
+![App Demo](assets/demo.png)
 
 ---
 

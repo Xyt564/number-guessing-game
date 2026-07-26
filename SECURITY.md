@@ -9,8 +9,7 @@
 
 ## Reporting a Vulnerability
 
-If you believe you have found a genuine security vulnerability, please open a GitHub Security Advisory (if available) or contact the maintainer privately.
-
+If you believe you have found a genuine security vulnerability, please open a GitHub Security Advisory.
 Please include:
 
 - A description of the issue.

@@ -57,7 +57,7 @@ git clone https://github.com/Xyt564/number-guessing-game.git
 ### 2. Navigate into the project folder
 
 ```bash
-cd guessing-game
+cd number-guessing-game/
 ```
 
 ### 3. Compile the program
@@ -132,7 +132,7 @@ Some ideas for future updates:
 
 ## 📜 License
 
-This project is open-source and available for anyone to use, modify, and learn from.
+> Check LICENSE file
 
 ---
 

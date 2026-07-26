@@ -51,7 +51,7 @@ This was a fun little project to practise:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/xyt564/guessing-game.git
+git clone https://github.com/Xyt564/number-guessing-game.git
 ```
 
 ### 2. Navigate into the project folder

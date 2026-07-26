@@ -37,7 +37,14 @@ This was a fun little project to practise:
 * Special victory message for each difficulty
 * Secret ASCII art reward for beating hard mode
 
-# Demo
+---
+# 📸 Screenshot
+
+Interactive shell mode:
+
+![PWMGR Demo](assets/demo.png)
+
+---
 
 ## 🛠️ Built With
 

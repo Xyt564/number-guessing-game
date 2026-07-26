@@ -37,6 +37,8 @@ This was a fun little project to practise:
 * Special victory message for each difficulty
 * Secret ASCII art reward for beating hard mode
 
+# Demo
+
 ## 🛠️ Built With
 
 * C++
